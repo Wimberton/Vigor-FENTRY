@@ -28,7 +28,7 @@ README:
 Press `INSERT` to toggle the menu.
 
 ## How to Purchase OriginVigor
-**ALL-ACCESS IS CURRENTLY $9.99 / LIFETIME LICENSE**
+**ALL-ACCESS IS CURRENTLY $6.99 / LIFETIME LICENSE**
 
 - Get the **Free Edition** by downloading via the manual download below.
 - Get the **Supporter Edition** by purchasing directly from our website.
