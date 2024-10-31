@@ -12,7 +12,6 @@ README:
 ![OriginVigor Screenshot 2](https://i.gyazo.com/a3be8bec656f1838bae5e416e26eacbf.jpg)
 
 ## Vigor Game Compatibility
-- **Game Version:** 4.27.2-17155197
 - **Client:** Steam Client
 - **Config Save:** Automatically saves configured values
 
@@ -59,11 +58,19 @@ Press `INSERT` to toggle the menu.
 ## ADDITIONAL  PREMIUM FUNCTIONALITY
 
 ### Item ESP Features
-- **Enable Item ESP:** Enable or disable drawing ESP for items, weapons, and consumables, and everything else.
-- **ESP Item Names:** Display the name of items, weapons, and consumables, and everything else.
-- **ESP Item Rarity Filters:** Filter by rarity type for items, weapons, and consumables, and everything else separately.
-- **ESP Item Lines:** Enable or disable drawing lines to items on the map.
+- **Enable Item ESP:** Enable or disable drawing ESP for items, weapons, consumables, and various resources across the map.
+- **ESP Item Names:** Display names of all highlighted items, including weapons, consumables, and special loot.
+- **ESP Item Lines:** Enable or disable drawing lines to specific items on the map for easier tracking.
 - **Item Line From Top:** Toggle whether the item trace line originates from the top of the screen.
+
+### Lootable ESP Features
+Easily locate resources, ammunition, and consumables with item ESP for enhanced gameplay.
+
+- **Ammo, Weapon, and Medical Boxes**
+- **Consumables:** Blueberries, Penny Bun Mushrooms, Cloudberries, and more.
+- **Rare Items:** Unique collectibles like Lighters, Trolls, and Vinyl records.
+- **Airdrop Crates, Locked Containers, and Chests**
+- **Resource Items:** Electronics, Fertilizer, Glass, Wire, and other crafting materials.
 
 ### Aimbot Features
 - **Enable Aimbot:** Enable or disable aimbot, making your shots always on target.
