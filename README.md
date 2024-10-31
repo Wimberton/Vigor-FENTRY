@@ -58,7 +58,7 @@ Press `INSERT` to toggle the menu.
 ## ADDITIONAL  PREMIUM FUNCTIONALITY
 
 ### Item ESP Features
-- **Enable Item ESP:** Enable or disable drawing ESP for items, weapons, consumables, and various resources across the map.
+- **Enable Item ESP:** Enable or disable drawing ESP for items, weapons, consumables, and various resources.
 - **ESP Item Names:** Display names of all highlighted items, including weapons, consumables, and special loot.
 - **ESP Item Lines:** Enable or disable drawing lines to specific items on the map for easier tracking.
 - **Item Line From Top:** Toggle whether the item trace line originates from the top of the screen.
