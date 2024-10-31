@@ -1,5 +1,5 @@
 README:
-# Download Best Free Vigor Cheat, OriginVigor <a href="https://www.unknowncheats.me/forum/other-fps-games/667423-originvigor-free-public-wallhacks-esp-vigor.html"><img align="right" src="https://i.gyazo.com/7e7b0b3f8bd20565233fe2f3fb08d250.png" width="32" height="32"></a>
+# Download Best Free Vigor Cheat, OriginVigor
 [OriginVigor is the most powerful cheat available for Vigor](https://getos.me/). It's completely free, and comes with tons of overpowered features like player and item ESP, visibility checks, aimbots, speedhacks, and more! OriginVigor is under active development, so there may be a few bugs.
 
 ## Quick Links
