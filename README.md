@@ -9,6 +9,7 @@ README:
 <img align="center" src="https://i.gyazo.com/3a89405c73b7c5b1eed730ad8cc95e47.png" width="auto" height="auto">
 
 ![OriginVigor Screenshot](https://i.gyazo.com/605cc5b0718f4dc00cc43c8b806ed33c.jpg)
+![OriginVigor Screenshot 2](https://i.gyazo.com/a3be8bec656f1838bae5e416e26eacbf.jpg)
 
 ## Vigor Game Compatibility
 - **Game Version:** 4.27.2-17155197
