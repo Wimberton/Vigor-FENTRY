@@ -1,4 +1,3 @@
-README:
 # Download Best Free Vigor Cheat, OriginVigor
 [OriginVigor is the most powerful cheat available for Vigor](https://getos.me/). It's completely free, and comes with tons of overpowered features like player and item ESP, visibility checks, aimbots, speedhacks, and more! OriginVigor is under active development, so there may be a few bugs.
 
