@@ -4,6 +4,7 @@
 ## Quick Links
 - ♥ [Download Latest DLL](https://github.com/Wimberton/OriginVigor/releases/tag/Release)
 - ♥ [Join Discord Server](https://discord.gg/originsoftware)
+- ♥ [View Changelogs](https://github.com/Wimberton/OriginVigor/wiki/Changelogs%E2%80%90%E2%80%90%E2%80%90DLL)
 
 <img align="center" src="https://i.gyazo.com/3a89405c73b7c5b1eed730ad8cc95e47.png" width="auto" height="auto">
 
