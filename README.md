@@ -1,15 +1,14 @@
-# Download Best Free Vigor Cheat, OriginVigor
-[OriginVigor is the most powerful cheat available for Vigor](https://getos.me/). It's completely free, and comes with tons of overpowered features like player and item ESP, visibility checks, aimbots, speedhacks, and more! OriginVigor is under active development, so there may be a few bugs.
+# Download Best Free Vigor Cheat, Vigor FENTRY
+[Vigor FENTRY is the most powerful cheat available for Vigor](https://www.fentry.org/). It's completely free, and comes with tons of overpowered features like player and item ESP, visibility checks, aimbots, speedhacks, and more! Vigor FENTRY is under active development, so there may be a few bugs.
 
 ## Quick Links
-- ♥ [Download Latest DLL](https://github.com/Wimberton/OriginVigor/releases/tag/Release)
-- ♥ [Join Discord Server](https://discord.gg/originsoftware)
-- ♥ [View Changelogs](https://github.com/Wimberton/OriginVigor/wiki/Changelogs%E2%80%90%E2%80%90%E2%80%90DLL)
+- ♥ [Download Latest DLL](https://github.com/Wimberton/Vigor-FENTRY/releases/tag/Release)
+- ♥ [Join Discord Server](https://discord.gg/fentry)
 
 <img align="center" src="https://i.gyazo.com/3a89405c73b7c5b1eed730ad8cc95e47.png" width="auto" height="auto">
 
-![OriginVigor Screenshot](https://i.gyazo.com/605cc5b0718f4dc00cc43c8b806ed33c.jpg)
-![OriginVigor Screenshot 2](https://i.gyazo.com/a3be8bec656f1838bae5e416e26eacbf.jpg)
+![Vigor FENTRY Screenshot](https://i.gyazo.com/605cc5b0718f4dc00cc43c8b806ed33c.jpg)
+![Vigor FENTRY Screenshot 2](https://i.gyazo.com/a3be8bec656f1838bae5e416e26eacbf.jpg)
 
 ## Vigor Game Compatibility
 - **Client:** Steam Client
@@ -26,15 +25,6 @@
 3. Press login
 
 Press `INSERT` to toggle the menu.
-
-## How to Purchase OriginVigor
-**ALL-ACCESS IS CURRENTLY $9.99 / LIFETIME LICENSE**
-
-- Get the **Free Edition** by downloading via the manual download below.
-- Get the **Supporter Edition** by purchasing directly from our website.
-
-[GET FREE EDITION](https://getos.me/signin)  
-[GET SUPPORTER EDITION](https://getos.me/signin)
 
 <img align="center" src="https://i.gyazo.com/a31227e25a080e65054a4737a4baa6e1.png" width="auto" height="auto">
 
